@@ -1,5 +1,8 @@
 #include "GroundSquare.h"
 
+/*
+	changed code
+*/
 GroundSquare::GroundSquare()
 {
 	setAll("Plain", 0, 0);
